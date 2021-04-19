@@ -1,0 +1,64 @@
+.text-center {
+    color: gray;
+    font-family: Helvetica, sans-serif;
+}
+
+#wordsContainer {
+  background-color:#1B1B1B;
+  height: 300px;
+  border-radius: 30px;
+  margin-top: 100px;
+  margin-left : 15%;
+  margin-right: 15%;
+}
+
+
+
+#body{
+  background-color: #1B1B1B
+}
+
+span{
+    color: gray;
+    font-size: 25pt;
+}
+
+
+input {
+    width: 40%;
+    height: 40px;
+    
+    border: none;
+    text-align: left;
+    background-color: #1B1B1B;
+    display: none;
+    opacity: 0.5;
+
+}
+input[type="text"]
+{
+    font-size: 20pt;
+    color: white
+}
+
+
+#startOverButton {
+    width: 250px;
+    height : 200px;
+    border: none;
+    color: white;
+    display: block;
+    box-shadow: none;
+    background-color: #1B1B1B;
+    font-size: 75pt;
+    text-align: center;
+}
+
+#score {
+    color: gray;
+    font-size: 75pt;
+    display: block;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+}

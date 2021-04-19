@@ -1,0 +1,2 @@
+-- simple refactoring and fix the bug of the score disappearing 
+-- fix error of overlapping words happening 
